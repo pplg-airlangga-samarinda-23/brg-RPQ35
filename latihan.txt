@@ -1,0 +1,12 @@
+1.Bandingkan aplikasi CRUD barang sebelum dan sesudah modul ini. Mana yang menurut kamu
+  lebih mudah dipahami? Beri alasan minimal 50 kata.
+
+->bagi saya pribadi ,perbedaan nya tidak begitu jauh karena program ini saya buat snediri sehingga saya paham dengan 
+ dengan baik program ini dari awal 
+
+ tetapi menurut saya seharusnya file yang dipisah dan dirapikan seperti ini harusnya lebih mudah dipahami
+ karna saat menacri erorr juga ,saya lebih mudah menemukannya karn informasi erornya langsung bisa memberitahu 
+ eror lebih akuran dan cepat
+
+  tetapi dengan perubahan ini akan lebih mudah menjelaskan kepada orang lain mengenai fungsi dari masing masing percabangan 
+  dan function yang ada 
